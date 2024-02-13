@@ -1,0 +1,19 @@
+{
+  "name": "com.twinfaerie.objectspawnerpool",
+  "version": "1.0.0",
+  "displayName": "TwinFaerie Object-Spawner-Pool",
+  "description": "For standarize and easier system initialization on unity",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/TwinFaerie/twinfaerie-objectspawnerpool/",
+  "changelogUrl": "https://github.com/TwinFaerie/twinfaerie-objectspawnerpoolobjectspawnerpool/releases",
+  "licensesUrl": "https://github.com/TwinFaerie/twinfaerie-objectspawnerpool/blob/main/LICENSE",
+  "repository": "https://github.com/TwinFaerie/twinfaerie-objectspawnerpool",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@twinfaerie"
+  },
+  "author": {
+    "name": "Twin Faerie",
+    "email": "support@twinfaerie.my.id",
+    "url": "https://www.twinfaerie.my.id/"
+  }
+}
